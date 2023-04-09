@@ -9,5 +9,3 @@ Write-Host You are not eligible to vote',' $age
 Else {
 Write-Host 'Invalid Number'
 }
-
-Write-Host int(19)
